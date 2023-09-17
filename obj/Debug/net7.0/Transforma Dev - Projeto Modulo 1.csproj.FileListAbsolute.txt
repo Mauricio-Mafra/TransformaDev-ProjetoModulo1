@@ -1,0 +1,22 @@
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Transforma Dev - Projeto Modulo 1.exe
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Transforma Dev - Projeto Modulo 1.deps.json
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Transforma Dev - Projeto Modulo 1.runtimeconfig.json
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Transforma Dev - Projeto Modulo 1.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Transforma Dev - Projeto Modulo 1.pdb
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\refint\Transforma Dev - Projeto Modulo 1.dll
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.pdb
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\Transforma Dev - Projeto Modulo 1.genruntimeconfig.cache
+C:\Users\mauri\OneDrive\Documentos\Projects\TransformaDev\Transforma Dev - Projeto Modulo 1\obj\Debug\net7.0\ref\Transforma Dev - Projeto Modulo 1.dll

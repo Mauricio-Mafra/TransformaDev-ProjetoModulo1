@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/5Y/lWZwxKN+uFmwUMccXO8+DusqWKCf5aSudqU4xBeDxylsShy7o6g4gvcncty1anBSswFqYkcNcf6VKsrwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauri\\OneDrive\\Documentos\\Projects\\TransformaDev\\Transforma Dev - Projeto Modulo 1\\Transforma Dev - Projeto Modulo 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
